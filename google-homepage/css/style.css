@@ -1,0 +1,62 @@
+.nav{
+	padding-top:10px;
+	padding-right:10px;
+}
+
+.navi {
+	float:right;
+	margin: 5px 5px;
+	font-family: arial;
+	font-size: 13px;
+	color: #888376;
+	line-height: 20px;
+}
+
+.logo {
+	text-align: center;
+	padding-top: 200px;
+}
+
+.search-bar {
+	margin-top: 30px;
+	width:500px;
+	height:30px;
+}
+
+.logo button{
+  color: rgb(68, 68, 68);
+  font-weight:bold;
+  font-size:10px;
+  height:29px;
+  width:118px;
+  margin: 16px 4px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: rgb(245, 245, 245);
+}
+
+footer{
+  background:rgb(242, 242, 242);
+  height:40px;
+  width:100%;
+  position:fixed;
+  bottom:0px;
+}
+
+.footer-links{
+  margin-left:15px;
+  margin-right:15px;
+  font-family:arial;
+  color: rgb(68, 68, 68);
+  font-size:13px;
+  line-height: 24px;
+}
+
+.links-left{
+  margin: 8px 15px;
+  float:left;
+}
+
+.links-right{
+  margin: 8px 15px;
+  float:right;
+}

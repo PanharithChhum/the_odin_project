@@ -1,7 +1,6 @@
 $(document).ready(function(){
 	defaultsetting();
 	singlecolor();
-	changecolor();
 });
 
 function defaultsetting(){
